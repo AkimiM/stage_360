@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/akimi/Scenes/Akimi.unity
+- path: Assets/Scenes/stage.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
