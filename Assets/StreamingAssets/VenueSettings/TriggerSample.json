@@ -1,0 +1,23 @@
+﻿{
+  "triggers": [
+	 {
+      "id": "on",
+      "category": "on",
+      "instant": true,
+      "color": [ 0.0, 0.0, 1.0 ],
+      "showConfirmDialog": true,
+      "displayName" : "kirakiraon "
+    },
+    {
+      "id": "off",
+      "category": "Switcoff",
+      "instant": true,
+      "color": [ 1.0, 1.0, 1.0 ],
+      "displayName" : "off",
+      "showConfirmDialog": true
+    },
+   	{
+  
+    }
+  ]
+}

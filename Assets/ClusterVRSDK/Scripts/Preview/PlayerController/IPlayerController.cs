@@ -1,0 +1,11 @@
+﻿using UnityEngine;
+
+namespace ClusterVRSDK.Preview.PlayerController
+{
+    public interface IPlayerController
+    {
+        Transform PlayerTransform { get; }
+        Transform CameraTransform { get; }
+        void ActivateCharacterController(bool isActive);
+    }
+}

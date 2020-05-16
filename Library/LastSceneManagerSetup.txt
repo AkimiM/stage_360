@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/akimi/Scenes/Akimi.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
